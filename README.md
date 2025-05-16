@@ -1,8 +1,13 @@
-<h2 align="left">Heya! My name is Matt and I'm a Student from Philippines</h2>
+<h2 align="left">Heyya! My name is Matt and I'm a Student from PH!<br><br>⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h2>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RnNzRwd2ZuMHZ6YXFuZTU1enR6Z3o3aGo0aWlmaWV5Z2IydnlvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7pI4lvMaMnoIQS502/giphy.gif"  />
+<div align="center">
+</div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN5YXZwZzVxMGpkMTU0dDRvc2g0bTc2ZWU0OTVkc25xMDNoOHR4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7pI4lvMaMnoIQS502/giphy.gif"  />
 
 ###
 
@@ -19,9 +24,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
@@ -39,5 +44,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/matchu28/matchu28/output/snake.svg" alt="Snake animation" />
 
 ###
