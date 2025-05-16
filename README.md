@@ -49,6 +49,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matchu28/matchu28/output/snake.svg" alt="Snake animation" />
-
 ###
